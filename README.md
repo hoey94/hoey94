@@ -1,7 +1,7 @@
 # Hi 👋 Hoey here.
 
 * 🎈 Data science engineer
-* 🎓 Computer Science undergraduate at [🏫 zzuli](http://www.zzuli.edu.cn/) (2018 - 2022)
+* 🎓 Computer Science undergraduate at [🏫 zzuli](http://www.zzuli.edu.cn/) (2013 - 2017)
 * 🌱 Working in [PingAn](https://www.pingan.com/official/insurance) (2019 - 2021) and [Juneyao](http://www.juneyaoair.com/index.aspx) (2021 - 2022)
 * 🌟 Contributor of our [OI Wiki](https://github.com/OI-wiki), maintaining the mirror site [oi.wiki](https://oi.wiki)
 * ❤️ Love Linux and open source software
