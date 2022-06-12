@@ -4,8 +4,8 @@
 * 🎓 Computer Science undergraduate at [🏫 zzuli](http://www.zzuli.edu.cn/) (2013 - 2017)
 * 🌱 Working in [PingAn](https://www.pingan.com/official/insurance) (2019 - 2021) and [Juneyao](http://www.juneyaoair.com/index.aspx) (2021 - 2022)
 * 🌟 Contributor of our [zzuli-clubs](https://github.com/zzuliACGN)
-* ❤️ Love Linux and open source software
 * 👍 Co-founder and main developer of Glass Technology Company [SiHai](http://www.sihai.ml/)
+* ❤️ Love Linux and open source software
 
 [Homepage (zh)](https://hoey.tk) · [Blog (zh)](https://blog.hoey.tk) 
 
