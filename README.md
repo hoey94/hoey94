@@ -9,7 +9,7 @@
 
 [Homepage (zh)](https://hoey.tk) · [Blog (zh)](https://blog.hoey.tk) 
 
-![Skills](https://skillicons.dev/icons?i=java,scala,spring,bash,docker,git,github,gitlab,html,idea,js,jenkins,jquery,linkedin,linux,lua,md,maven,mysql,netlify,nginx,nodejs,ps,php,postgres,pr,py,r,raspberrypi,redis,regex,rocket,vim,vscode,vue,wordpress,eclipse,css)
+![Skills](https://skillicons.dev/icons?i=raspberrypi,java,scala,py,r,lua,spring,idea,bash,docker,git,md,maven,vim,linux,vscode,github,gitlab,html,js,jenkins,jquery,linkedin,mysql,netlify,nginx,nodejs,ps,php,postgres,pr,redis,regex,rocket,vue,wordpress,eclipse,css)
 
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=hoey94&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
