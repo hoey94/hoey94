@@ -9,7 +9,7 @@
 
 [Homepage (zh)](https://hoey.tk) · [Blog (zh)](https://blog.hoey.tk) 
 
-![Skills](https://skillicons.dev/icons?i=azure,cloudflare,workers,github,c,cpp,cs,html,js,ts,css,sass,php,py,go,md,regex,bash,docker,git,mongodb,mysql,redis,linux,nginx,vim,vscode,express,electron,jquery,nodejs,nestjs,react,vue,wasm)
+![Skills](https://skillicons.dev/icons?i=java,hadoop,flink,azure,cloudflare,workers,github,html,js,css,py,go,md,regex,bash,docker,git,mongodb,mysql,redis,linux,nginx,vim,vscode,express,jquery,nodejs,vue)
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=hoey94&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hoey94&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
