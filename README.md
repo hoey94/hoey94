@@ -7,6 +7,6 @@
 * 👍 Co-founder and main developer of Glass Technology Company [SiHai](http://www.sihai.ml/)
 * ❤️ Love Linux and open source software
 
-[Homepage (zh)](https://hoey.tk) · [Blog (zh)](https://blog.hoey.tk) 
+[Homepage (zh)](https://hoey.tk) · [Chat (zh)](https://chat.hoey.tk) 
 
 ![Skills](https://skillicons.dev/icons?i=raspberrypi,java,scala,py,r,lua,spring,idea,bash,docker,git,md,maven,vim,linux,vscode,github,gitlab,html,js,jenkins,jquery,linkedin,mysql,netlify,nginx,nodejs,php,postgres,pr,redis,regex,rocket,vue,wordpress,css,flink)
