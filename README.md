@@ -9,4 +9,4 @@
 
 [Homepage (zh)](https://hoey.tk) · [Chat (zh)](https://chat.hoey.tk) 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,scala,py,r,lua,nodejs,docker,git,maven,vim,linux,hadoop,figma&theme=light)](https://skillicons.dev)
